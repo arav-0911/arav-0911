@@ -8,16 +8,10 @@
 
 - 💻 Programming Languages: **C, C++, JavaScript, Python, PHP, Java, CSS, HTML**
 - 🧰 Tools & Technologies: **MySQL**
-- 📦 Frameworks & Libraries: **React**
+- 📦 Frameworks & Libraries: **React, jQuery**
 
-## 🌟 Projects
-
-- Some projects I've worked on:
-  - Anti-cheater: A JQuery and PHP website which detects the user switching tabs or resizing the page, and sends an e-mail to the admin about this information.
-  - Weshare: A PHP social-networking website made for students of a specific school.
-  - SUNDAY: A Python personal voice assistant, helping you with simple functions and providing information.
-
-## 🌐 Connect with Me: aravshaji0911@gmail.com
+## 🌐 Connect with Me: 
+aravshaji0911@gmail.com
 
 
 <!---
